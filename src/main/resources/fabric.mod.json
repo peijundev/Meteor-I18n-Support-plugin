@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "addon-template",
   "version": "${version}",
-  "name": "Meteor I18n Support",
-  "description": "为Meteor添加国际化支持",
+  "name": "Meteor I18n Support——PeijunDev Version",
+  "description": "为Meteor添加国际化支持，PeijunDev倾情奉献改版",
   "authors": [
     "kono_yalu"
   ],
